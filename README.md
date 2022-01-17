@@ -120,7 +120,7 @@ Agora que temos nosso ambiente Python todo configurado, podemos começar a traba
 jupyter notebook
 ```
     
-## Demo modelo PLN - Análise de dados
+## Demo Análise de dados
 
 ```bash
   # Carregando as bibliotecas 
